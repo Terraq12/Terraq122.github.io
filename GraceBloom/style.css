@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 233, 236);
+}
+.block {
+    border: 1px solid black;
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+}
+#logo {
+	font-family: 'Great Vibes'; 
+    font-weight: 600;
+    color: rgb(243, 131, 150); 
+    font-size: 30px;
+}
+nav {
+    border: 1px solid black;
+}
+ul {
+    padding: 0;
+    list-style: none;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    border: 1px solid black;
+}
